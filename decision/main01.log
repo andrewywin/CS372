@@ -1,0 +1,90 @@
+My decision tree predicted:
+[2. 1. 3. 2. 1. 2. 3. 1. 3. 3. 2. 3. 3. 2. 2. 1. 2. 3. 3. 3. 1. 2. 1. 3.
+ 2. 2. 3. 1. 2. 3.]
+
+The true values were actually:
+[2 1 3 3 1 2 3 1 3 3 2 3 3 2 2 1 2 3 3 3 1 2 1 3 2 2 3 1 2 2]
+
+Accuracy: 0.9333333333333333 
+
+My decision tree predicted:
+[1. 3. 2. 1. 3. 2. 2. 2. 1. 2. 2. 2. 2. 3. 2. 2. 2. 3. 3. 2. 2. 3. 1. 2.
+ 3. 1. 3. 3. 1. 2.]
+
+The true values were actually:
+[1 3 2 1 3 2 2 2 1 2 3 2 2 3 2 2 3 3 3 2 2 3 1 2 3 1 3 3 1 2]
+
+Accuracy: 0.9333333333333333 
+
+My decision tree predicted:
+[1. 1. 2. 3. 3. 3. 1. 2. 1. 2. 2. 3. 3. 3. 3. 2. 3. 2. 3. 3. 3. 2. 3. 2.
+ 3. 3. 3. 1. 3. 1.]
+
+The true values were actually:
+[1 1 2 3 3 3 1 2 1 2 3 3 3 3 3 2 2 2 3 3 3 2 3 2 3 3 3 1 3 1]
+
+Accuracy: 0.9333333333333333 
+
+My decision tree predicted:
+[1. 1. 3. 2. 3. 2. 3. 1. 2. 1. 1. 3. 2. 2. 3. 1. 3. 2. 1. 3. 3. 2. 3. 3.
+ 1. 3. 3. 1. 3. 1.]
+
+The true values were actually:
+[1 1 2 2 3 2 3 1 2 1 1 3 2 2 3 1 3 2 1 3 3 2 3 3 1 3 3 1 3 1]
+
+Accuracy: 0.9666666666666667 
+
+My decision tree predicted:
+[2. 2. 2. 1. 3. 3. 2. 3. 2. 1. 2. 1. 2. 1. 3. 1. 1. 3. 3. 3. 1. 3. 3. 3.
+ 3. 3. 3. 1. 3. 3.]
+
+The true values were actually:
+[3 2 2 1 3 3 2 3 2 1 2 1 2 1 3 1 1 3 3 3 1 3 3 3 3 3 3 1 2 3]
+
+Accuracy: 0.9333333333333333 
+
+My decision tree predicted:
+[1. 2. 2. 3. 1. 1. 1. 1. 2. 3. 3. 3. 3. 3. 3. 1. 2. 3. 2. 2. 2. 3. 1. 1.
+ 1. 3. 3. 3. 3. 3.]
+
+The true values were actually:
+[1 2 2 3 1 1 1 1 2 3 3 3 3 3 3 1 2 3 2 2 2 3 1 1 1 3 3 3 3 3]
+
+Accuracy: 1.0 
+
+My decision tree predicted:
+[3. 3. 1. 3. 3. 3. 2. 2. 2. 2. 3. 3. 2. 2. 1. 1. 1. 3. 1. 1. 1. 1. 2. 3.
+ 2. 2. 3. 1. 1. 3.]
+
+The true values were actually:
+[3 3 1 3 3 3 2 2 2 2 3 3 2 2 1 1 1 3 1 1 1 1 2 3 2 2 2 1 1 3]
+
+Accuracy: 0.9666666666666667 
+
+My decision tree predicted:
+[2. 1. 1. 2. 1. 2. 3. 2. 2. 1. 3. 2. 3. 2. 3. 2. 2. 1. 2. 2. 3. 3. 1. 1.
+ 2. 1. 2. 3. 1. 2.]
+
+The true values were actually:
+[2 1 1 2 1 2 3 2 2 1 3 2 3 2 3 2 2 1 2 3 3 3 1 1 2 1 2 3 1 2]
+
+Accuracy: 0.9666666666666667 
+
+My decision tree predicted:
+[2. 2. 1. 2. 3. 1. 3. 2. 1. 1. 1. 1. 2. 1. 3. 2. 3. 1. 3. 2. 1. 1. 2. 3.
+ 1. 3. 2. 3. 3. 1.]
+
+The true values were actually:
+[2 2 1 2 3 1 3 2 1 1 1 1 2 1 3 2 3 1 3 2 1 1 2 3 1 3 2 3 3 1]
+
+Accuracy: 1.0 
+
+My decision tree predicted:
+[1. 1. 3. 2. 3. 3. 1. 1. 3. 2. 2. 1. 3. 1. 2. 2. 2. 1. 1. 1. 1. 3. 1. 3.
+ 1. 2. 1. 2. 1. 3.]
+
+The true values were actually:
+[1 1 3 2 3 3 1 1 3 2 2 1 3 1 2 2 2 1 1 1 1 3 1 3 1 2 1 2 1 3]
+
+Accuracy: 1.0 
+
